@@ -26,7 +26,7 @@
   /* button */
   .btn {
     padding: 1rem 1.5rem;
-    background: white;
+    background: #B3C8CF;
     border: 1.5px solid black;
     cursor: pointer;
     border-radius: 0.7rem;
@@ -163,7 +163,7 @@
 
   /* End of About */
   
-  /* Skill & Experiance */
+  /* Education & Experiance */
   #education {
     padding: 4rem 0;
     background: white;
@@ -224,7 +224,7 @@
     line-height: 2rem;
     padding: 0 1rem;
   }
-  /* End of Experience & Skills */
+  /* End of Education & Experience */
 
   #project {
     padding: 4rem;
